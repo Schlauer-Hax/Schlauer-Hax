@@ -36,9 +36,9 @@ function generateYearBar() {
 
 
 const progressbar = `\
-⏳ Year progress  { ${progressOfYear.bar} } - ${(progressOfYear.percent * 100).toFixed(2)} %
+⏳ { ${progressOfYear.bar} } - ${(progressOfYear.percent * 100).toFixed(2)} - Year progress  %
 
-⏳ Month progress { ${progressOfMonth.bar} } - ${(progressOfMonth.percent * 100).toFixed(2)} %
+⏳ { ${progressOfMonth.bar} } - ${(progressOfMonth.percent * 100).toFixed(2)} - Month progress %
 
 ⏰ Updated on ${new Date().toUTCString()}`
 

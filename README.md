@@ -1,10 +1,10 @@
 # Hi there!
 
-⏳ { ████████████████░░░░░░░░░░░░░░ } - 55.09% - Month progress
+⏳ { ████████████████░░░░░░░░░░░░░░ } - 55.93% - Month progress
 
-⏳ { ███████████░░░░░░░░░░░░░░░░░░░ } - 37.40% - Year progress
+⏳ { ███████████░░░░░░░░░░░░░░░░░░░ } - 37.47% - Year progress
 
-⏰ Updated on Mon, 17 May 2021 12:38:01 GMT
+⏰ Updated on Mon, 17 May 2021 18:40:52 GMT
 
 
 [![Schlauer-Hax's github stats](https://github-readme-stats.vercel.app/api?username=Schlauer-Hax&show_icons=true&theme=dark&count_private=true)](https://github.com/Schlauer-Hax)

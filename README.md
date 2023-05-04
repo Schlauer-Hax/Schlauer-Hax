@@ -1,10 +1,10 @@
 # Hi there!
 
-⏳ { ███░░░░░░░░░░░░░░░░░░░░░░░░░░░ } - 12.15% - Month progress
+⏳ { ███░░░░░░░░░░░░░░░░░░░░░░░░░░░ } - 12.37% - Month progress
 
-⏳ { ██████████░░░░░░░░░░░░░░░░░░░░ } - 33.91% - Year progress
+⏳ { ██████████░░░░░░░░░░░░░░░░░░░░ } - 33.93% - Year progress
 
-⏰ Updated on Thu, 04 May 2023 18:21:58 GMT
+⏰ Updated on Thu, 04 May 2023 20:04:02 GMT
 
 
 [![Schlauer-Hax's github stats](https://github-readme-stats.vercel.app/api?username=Schlauer-Hax&show_icons=true&theme=dark&count_private=true)](https://github.com/Schlauer-Hax)
@@ -14,5 +14,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Schlauer-Hax&theme=dark)](https://git.io/streak-stats)
 
-[![Hax's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hax&theme=dark)](https://wakatime.com/@Hax)
+[![Hax's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hax&theme=dark&range=all_time)](https://wakatime.com/@Hax)
 

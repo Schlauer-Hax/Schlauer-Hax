@@ -10,4 +10,6 @@ $progressbars$
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Schlauer-Hax&theme=dark)](https://git.io/streak-stats)
 
-[![Hax's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hax&theme=dark&range=all_time)](https://wakatime.com/@Hax)
+[![Hax's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hax&range=last_7_days&langs_count=5&theme=dark)](https://wakatime.com/@Hax)
+
+[![wakatime](https://wakatime.com/badge/user/411707cc-e652-41a0-81f7-5b5255d892a6.svg)](https://wakatime.com/@411707cc-e652-41a0-81f7-5b5255d892a6)

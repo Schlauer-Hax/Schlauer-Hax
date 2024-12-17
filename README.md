@@ -1,20 +1,15 @@
 # Hi there!
 
-⏳ { ████████████████░░░░░░░░░░░░░░ } - 53.34% - Month progress
+[![wakatime](https://wakatime.com/badge/user/411707cc-e652-41a0-81f7-5b5255d892a6.svg)](https://wakatime.com/@Hax)
 
-⏳ { ████████████████████████████░░ } - 96.05% - Year progress
+<div align="center">
 
-⏰ Updated on Tue, 17 Dec 2024 12:49:51 GMT
-
-
-[![Schlauer-Hax's github stats](https://github-readme-stats.vercel.app/api?username=Schlauer-Hax&show_icons=true&theme=dark&count_private=true)](https://github.com/Schlauer-Hax)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schlauer-Hax&layout=compact&theme=dark)](https://github.com/Schlauer-Hax?tab=repositories)
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=11150582328&redirect=true">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11150582328&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Schlauer-Hax&theme=dark)](https://git.io/streak-stats)
 
-[![Hax's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hax&range=last_7_days&langs_count=5&theme=dark)](https://wakatime.com/@Hax)
+![Visitor Count](https://profile-counter.glitch.me/Schlauer-Hax/count.svg)
 
-[![wakatime](https://wakatime.com/badge/user/411707cc-e652-41a0-81f7-5b5255d892a6.svg)](https://wakatime.com/@411707cc-e652-41a0-81f7-5b5255d892a6)
-
+</div>

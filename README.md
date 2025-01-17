@@ -8,7 +8,7 @@
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11150582328&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f" style="background-color: #141414"/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Schlauer-Hax&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-six-plum.vercel.app/?user=Schlauer-Hax&theme=dark)
 
 ![Visitor Count](https://profile-counter.glitch.me/Schlauer-Hax/count.svg)
 

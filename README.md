@@ -10,6 +10,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-six-plum.vercel.app/?user=Schlauer-Hax&theme=dark)
 
-![Visitor Count](https://profile-counter.glitch.me/Schlauer-Hax/count.svg)
-
 </div>
